@@ -47,18 +47,16 @@ Challenge ini bertujuan untuk:
 - Performance Index Visualization
 - Actual Sales Trend Visualization
 - Export Insight Otomatis ke Excel
-- High Resolution Visualization
 
 ---
 
 # Teknologi
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Mlxtend
-- OpenPyXL
+- python versi 3.10 - 3.14
+- matplotlib versi 3.10.7
+- pandas versi 2.3.1
+- mlxtend versi 0.23.4
+- openpyxL versi 3.1.5
 ---
 
 # Acknowledgements
