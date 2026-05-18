@@ -67,7 +67,3 @@ Challenge ini bertujuan untuk:
 - [UjiKompetensi](https://ujikompetensi.com/)
 
 ---
-
-# Author
-
-Aprilia Marenden
